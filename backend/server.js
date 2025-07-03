@@ -26,6 +26,7 @@ function calculateSimilarity(text1, text2) {
         wordCount1: words1.length,
         wordCount2: words2.length,
         sharedWords: shared,
+        sharedWordsCount: shared.length,
         similarityScore: parseFloat(similarityScore.toFixed(2)),
     };
 }
