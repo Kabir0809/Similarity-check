@@ -24,4 +24,7 @@
 - **Constraints:**  
   Minimum Text length : 10 words
   Removed Punctuations and case insensitive
-  
+
+### Output
+![Output Screenshot](output/image1.jpg)
+![Output Screenshot](output/image2.jpg)
